@@ -2,7 +2,7 @@ import dateMath from "date-arithmetic"
 
 import {Player} from "./Player.js";
 import {getRandomValueFromArray} from "../utils/Utils.js";
-import {GameService} from "../services/GameService";
+import {GameService} from "../services/GameService.js";
 
 export class Game {
 
