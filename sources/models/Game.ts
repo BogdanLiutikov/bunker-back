@@ -78,13 +78,6 @@ export class Game {
     }
 }
 
-// type PlayerWithUserName = {
-//     name: string,
-//     userId: string;
-//     gameId: string;
-//     outOfGame: boolean;
-//     attributes: Array<Attribute> | undefined;
-// }
 
 export type gameState = {
     gameId: string;
